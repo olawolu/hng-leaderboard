@@ -1,0 +1,46 @@
+body {
+	background: #519DF7;
+	text-align: center;
+}
+
+#main {
+	color: #FFFFFF
+}
+
+h1 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 144px;
+	line-height: 68px;
+	color: #FFFFFF
+}
+
+h2 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 40px;
+	line-height: 5px;
+	color: #FFFFFF
+}
+hr {
+	width: 692px;
+	height: 0px;
+	left: 374px;
+	top: 474px;
+	border: 1px solid #FFFFFF;
+}
+
+h2 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30px;
+	line-height: 45px;
+	color: #FFFFFF
+}
+button {
+		background: #93f1ff;
+		color: #000000
+}
