@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #519df7;
+}
+
+.header{
+    text-align: center;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 74px;
+    font-size: 36px;
+    color: #ffffff;
+}
+nav{
+    display: flex;
+    width: 100%;
+
+}
+nav div{
+    width: 50%;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #ffffff;
+    cursor: pointer;
+}
+nav div:hover{
+   border-bottom: 1px solid #ffffff;
+}
+.headshots{
+    display: flex;
+    width: 100%;
+    height: 350px;
+}
+.headshots  .margin{
+    width: 30%;   
+    height: 100%;
+}
+.margin{
+    margin: 30px;
+    background-color: white
+}
+.image{
+    margin: 0 auto ;
+    width: 40%;
+    height: 50%;
+    padding: 20px;
+}
+img{
+    border-radius: 50%;
+}
+section{
+    width: 80%;
+    margin: 0 auto;
+}
+section h2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #373636;
+}
+.Points{
+    width: 110px;
+    height: 36px;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 24px;
+    line-height: 36px;
+    color: #f42670;
+}
+.flex{
+    display:flex;
+    margin: 10px;
+}
+.flex p{
+    width: 58px;
+    height: 33px;
+    left: 130px;
+    top: 371px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 33px;
+    color: #373636;
+    margin-left: 10px;
+}
+table{
+    width: 90%;
+    margin: 70px auto;
+    height: 334px;
+    background-color: #ffffff;
+    border-spacing: 0;
+}
+.grey{
+    width: 100%;
+    height: 60px;
+    background-color: #efefef;
+    border:none;
+}
+.middle{
+    text-align: center;
+}
+.flex2{
+    display: flex;
+}
+.flex2 img{
+    padding: 10px;
+    margin-left: 20px;
+}
+.flex2 p {
+    line-height: 60px;
+    padding-left: 40px;
+}
